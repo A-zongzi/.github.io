@@ -18,17 +18,34 @@
         <id>http://example.com/2022/04/27/hello-world/</id>
         <title>Hello World</title>
         <link rel="alternate" href="http://example.com/2022/04/27/hello-world/"/>
-        <content type="html">&lt;p&gt;何塞与你好 欢迎来我的小窝窝 未来会优化网站进行二次元化 请收藏！&lt;br /&gt;
-Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;你好 欢迎来我的小窝窝 未来会优化网站进行二次元化 请收藏！&lt;br /&gt;
+暂时记录一下编写文章的工具&lt;br /&gt;
+ 1.Markdown&lt;br /&gt;
+ 写博客文章我们会使用 Markdown 来排版，它通过一些简单的标记语法让文本具有一定的格式。写作体验和 Word 这种机械式的排版工具比起来完全不是一个 level 的。&lt;/p&gt;
+&lt;p&gt;2.Typora&lt;br /&gt;
+ 接下来要介绍的主角是一个 Markdown 编辑器，它能让我们的写作体验达到顶峰。我个人是离不开这个编辑器了，它就是 Typora&lt;/p&gt;
+&lt;p&gt;好处&lt;br /&gt;
+下面是我觉得比较好的两个点：&lt;/p&gt;
+&lt;p&gt;①实时预览：在 Typora 中我们输入标记语法就能实时看到排版效果，解决了传统 Markdown 编辑器左右分屏式看起来麻烦的烦恼。&lt;/p&gt;
+&lt;p&gt;②快捷键输入：很多标记语法我们都可以使用快捷键输入，免去了手动敲语法的烦恼。&lt;/p&gt;
+&lt;p&gt;常用快捷键和语法&lt;br /&gt;
+标题：Ctrl+1、2、3... 对应一、二、三... 级标题（光标定位到需要设置为标题的行，按快捷键）&lt;/p&gt;
+&lt;p&gt;加粗：Ctrl+B（选中要加粗的文本，按快捷键）&lt;/p&gt;
+&lt;p&gt;斜体：Ctrl+I（选中要设置斜体的文本，按快捷键）&lt;/p&gt;
+&lt;p&gt;下划线：Ctrl+U（选中要加下划线的文本，按快捷键）&lt;/p&gt;
+&lt;p&gt;删除线：Alt+Shift+5（选中要加删除线的文本，按快捷键）&lt;/p&gt;
+&lt;p&gt;代码片段：Ctrl+Shift+`（选中要设置为代码片段的文本，按快捷键）&lt;/p&gt;
+&lt;p&gt;代码块：Ctrl+Shift+K（任意位置按快捷键，选择编程语言然后在代码块中输入代码）&lt;/p&gt;
+&lt;p&gt;切换到下一行：Ctrl+Enter（任意位置按快捷键，在代码块中可以跳出代码块另起一行）&lt;/p&gt;
+&lt;p&gt;链接：Ctrl+K（先复制链接，然后选中要加链接的文本，按快捷键。Ctrl + 左键点击文本可跳转到对应链接）&lt;/p&gt;
+&lt;p&gt;取消格式：再次按相同的快捷键即可&lt;/p&gt;
+&lt;p&gt;有序列表：数字 + 点 + 空格&lt;/p&gt;
+&lt;p&gt;任务列表：加号或减号 + 空格&lt;/p&gt;
+&lt;p&gt;切换到列表下一行：Space+Enter&lt;/p&gt;
+&lt;p&gt;嵌套列表：按 Tab 键&lt;/p&gt;
+&lt;p&gt;退出列表：按 Shift+Tab&lt;/p&gt;
+&lt;p&gt;插入表格：Ctrl+T&lt;/p&gt;
+&lt;p&gt;引用：输入 &amp;gt; 后面加空格，或者 Ctrl+Shift+Q&lt;/p&gt;
 </content>
         <updated>2022-04-27T07:13:26.563Z</updated>
     </entry>

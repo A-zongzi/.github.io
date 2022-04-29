@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://azongzi.top</id>
     <title>Azongzi</title>
     <subtitle></subtitle>
-    <icon>http://example.com/images/favicon.ico</icon>
-    <link href="http://example.com" />
+    <icon>https://azongzi.top/images/favicon.ico</icon>
+    <link href="https://azongzi.top" />
     <author>
       <name>Azongzi</name>
     </author>
@@ -15,9 +15,9 @@
     <category term="Music" />
     <category term="Myself" />
     <entry>
-        <id>http://example.com/2022/04/27/hello-world/</id>
+        <id>https://azongzi.top/2022/04/27/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2022/04/27/hello-world/"/>
+        <link rel="alternate" href="https://azongzi.top/2022/04/27/hello-world/"/>
         <content type="html">&lt;p&gt;你好 欢迎来我的小窝窝 未来会优化网站进行二次元化 请收藏！&lt;br /&gt;
 暂时记录一下编写文章的工具&lt;br /&gt;
  1.Markdown&lt;br /&gt;

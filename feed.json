@@ -2,13 +2,13 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Azongzi",
     "subtitle": "",
-    "icon": "https://a-zongzi.github.io/project/images/favicon.ico",
+    "icon": "http://example.com/images/favicon.ico",
     "description": "",
-    "home_page_url": "https://A-zongzi.github.io/project",
+    "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "https://a-zongzi.github.io/project/2022/04/27/hello-world/",
-            "url": "https://a-zongzi.github.io/project/2022/04/27/hello-world/",
+            "id": "http://example.com/2022/04/27/hello-world/",
+            "url": "http://example.com/2022/04/27/hello-world/",
             "title": "Hello World",
             "date_published": "2022-04-27T07:13:26.563Z",
             "content_html": "<p>你好 欢迎来我的小窝窝 未来会优化网站进行二次元化 请收藏！<br />\n暂时记录一下编写文章的工具<br />\n 1.Markdown<br />\n 写博客文章我们会使用 Markdown 来排版，它通过一些简单的标记语法让文本具有一定的格式。写作体验和 Word 这种机械式的排版工具比起来完全不是一个 level 的。</p>\n<p>2.Typora<br />\n 接下来要介绍的主角是一个 Markdown 编辑器，它能让我们的写作体验达到顶峰。我个人是离不开这个编辑器了，它就是 Typora</p>\n<p>好处<br />\n下面是我觉得比较好的两个点：</p>\n<p>①实时预览：在 Typora 中我们输入标记语法就能实时看到排版效果，解决了传统 Markdown 编辑器左右分屏式看起来麻烦的烦恼。</p>\n<p>②快捷键输入：很多标记语法我们都可以使用快捷键输入，免去了手动敲语法的烦恼。</p>\n<p>常用快捷键和语法<br />\n标题：Ctrl+1、2、3... 对应一、二、三... 级标题（光标定位到需要设置为标题的行，按快捷键）</p>\n<p>加粗：Ctrl+B（选中要加粗的文本，按快捷键）</p>\n<p>斜体：Ctrl+I（选中要设置斜体的文本，按快捷键）</p>\n<p>下划线：Ctrl+U（选中要加下划线的文本，按快捷键）</p>\n<p>删除线：Alt+Shift+5（选中要加删除线的文本，按快捷键）</p>\n<p>代码片段：Ctrl+Shift+`（选中要设置为代码片段的文本，按快捷键）</p>\n<p>代码块：Ctrl+Shift+K（任意位置按快捷键，选择编程语言然后在代码块中输入代码）</p>\n<p>切换到下一行：Ctrl+Enter（任意位置按快捷键，在代码块中可以跳出代码块另起一行）</p>\n<p>链接：Ctrl+K（先复制链接，然后选中要加链接的文本，按快捷键。Ctrl + 左键点击文本可跳转到对应链接）</p>\n<p>取消格式：再次按相同的快捷键即可</p>\n<p>有序列表：数字 + 点 + 空格</p>\n<p>任务列表：加号或减号 + 空格</p>\n<p>切换到列表下一行：Space+Enter</p>\n<p>嵌套列表：按 Tab 键</p>\n<p>退出列表：按 Shift+Tab</p>\n<p>插入表格：Ctrl+T</p>\n<p>引用：输入 &gt; 后面加空格，或者 Ctrl+Shift+Q</p>\n",

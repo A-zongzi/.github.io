@@ -1,26 +1,34 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Azongzi</title>
-        <subtitle></subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
-        <link>http://example.com</link>
+        <title>粽子</title>
+        <subtitle>幸福螺旋</subtitle>
+        <icon>https://a-zongzi.github.io/images/favicon.ico</icon>
+        <link>https://A-zongzi.github.io</link>
         <author>
           <name>Azongzi</name>
         </author>
-        <description></description>
+        <description>记录生活&amp;学习笔记</description>
         <language>en</language>
-        <pubDate>Wed, 27 Apr 2022 15:13:26 +0800</pubDate>
-        <lastBuildDate>Wed, 27 Apr 2022 15:13:26 +0800</lastBuildDate>
+        <pubDate>Sat, 30 Apr 2022 10:25:20 +0800</pubDate>
+        <lastBuildDate>Sat, 30 Apr 2022 10:25:20 +0800</lastBuildDate>
         <category term="Java" />
         <category term="Python" />
         <category term="Anime" />
         <category term="Music" />
         <category term="Myself" />
+        <category term="Life" />
         <item>
-            <guid isPermalink="true">http://example.com/2022/04/27/hello-world/</guid>
+            <guid isPermalink="true">https://a-zongzi.github.io/2022/04/30/about/</guid>
+            <title>测试</title>
+            <link>https://a-zongzi.github.io/2022/04/30/about/</link>
+            <pubDate>Sat, 30 Apr 2022 10:25:20 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://a-zongzi.github.io/2022/04/27/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2022/04/27/hello-world/</link>
+            <link>https://a-zongzi.github.io/2022/04/27/hello-world/</link>
             <pubDate>Wed, 27 Apr 2022 15:13:26 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;你好 欢迎来我的小窝窝 未来会优化网站进行二次元化 请收藏！&lt;br /&gt;
 暂时记录一下编写文章的工具&lt;br /&gt;

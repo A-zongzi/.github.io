@@ -1,23 +1,31 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>Azongzi</title>
-    <subtitle></subtitle>
-    <icon>http://example.com/images/favicon.ico</icon>
-    <link href="http://example.com" />
+    <id>https://A-zongzi.github.io</id>
+    <title>粽子</title>
+    <subtitle>幸福螺旋</subtitle>
+    <icon>https://a-zongzi.github.io/images/favicon.ico</icon>
+    <link href="https://A-zongzi.github.io" />
     <author>
       <name>Azongzi</name>
     </author>
-    <updated>2022-04-27T07:13:26.563Z</updated>
+    <updated>2022-04-30T02:25:20.000Z</updated>
     <category term="Java" />
     <category term="Python" />
     <category term="Anime" />
     <category term="Music" />
     <category term="Myself" />
+    <category term="Life" />
     <entry>
-        <id>http://example.com/2022/04/27/hello-world/</id>
+        <id>https://a-zongzi.github.io/2022/04/30/about/</id>
+        <title>测试</title>
+        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/about/"/>
+        <content type="html"></content>
+        <updated>2022-04-30T02:25:20.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://a-zongzi.github.io/2022/04/27/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2022/04/27/hello-world/"/>
+        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/27/hello-world/"/>
         <content type="html">&lt;p&gt;你好 欢迎来我的小窝窝 未来会优化网站进行二次元化 请收藏！&lt;br /&gt;
 暂时记录一下编写文章的工具&lt;br /&gt;
  1.Markdown&lt;br /&gt;

@@ -7,8 +7,22 @@
     "home_page_url": "https://A-zongzi.github.io",
     "items": [
         {
-            "id": "https://a-zongzi.github.io/2022/04/30/top/",
-            "url": "https://a-zongzi.github.io/2022/04/30/top/",
+            "id": "https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/",
+            "url": "https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/",
+            "title": "Python_01",
+            "date_published": "2022-04-30T11:55:47.000Z",
+            "content_html": "<h1 id=\"python\"><a class=\"anchor\" href=\"#python\">#</a> <mark>Python</mark></h1>\n<h6 id=\"学习进展\"><a class=\"anchor\" href=\"#学习进展\">#</a> 学习进展：</h6>\n<p>本人看的教学视频是<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXdENHkxbzdBUw==\"> Python0 基础教学 - Python_子木</span>，目前看到<mark> P59</mark>，字典的实现效果</p>\n<p>后续的学习笔记会更新过来～欢迎一起学习探讨呀！</p>\n<p>·······</p>\n",
+            "tags": [
+                "编程语言",
+                "Python",
+                "Python",
+                "学习",
+                "笔记"
+            ]
+        },
+        {
+            "id": "https://a-zongzi.github.io/2022/04/30/me/top/",
+            "url": "https://a-zongzi.github.io/2022/04/30/me/top/",
             "title": "关于我的个人Blog",
             "date_published": "2022-04-30T11:27:14.000Z",
             "content_html": "<h1 id=\"the-blog-of-azongzi\"><a class=\"anchor\" href=\"#the-blog-of-azongzi\">#</a> <mark>the Blog of Azongzi</mark></h1>\n<h2 id=\"1做blog的原因\"><a class=\"anchor\" href=\"#1做blog的原因\">#</a> 1，做 blog 的原因：</h2>\n<p>①分享自己的学习和生活</p>\n<p>②养成写内容和整理笔记的习惯</p>\n<p>③最关键的一点，即对编程的兴趣和热爱（但是我专业是机械 o (╥﹏╥) o）</p>\n",
@@ -19,34 +33,31 @@
             ]
         },
         {
-            "id": "https://a-zongzi.github.io/2022/04/30/ver1.1/",
-            "url": "https://a-zongzi.github.io/2022/04/30/ver1.1/",
-            "title": "Ver1.1更新内容",
+            "id": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.1/",
+            "url": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.1/",
+            "title": "随机图床",
             "date_published": "2022-04-30T08:45:55.000Z",
-            "content_html": "<h2 id=\"更新了图床-如果你有更好的风景动漫图-请点击我的qq进行添加-谢谢啦-一起来完善网站吧\"><a class=\"anchor\" href=\"#更新了图床-如果你有更好的风景动漫图-请点击我的qq进行添加-谢谢啦-一起来完善网站吧\">#</a> 更新了图床 如果你有更好的风景动漫图 请点击我的 qq 进行添加 谢谢啦 一起来完善网站吧！</h2>\n",
+            "content_html": "<h2 id=\"更新了图床\"><a class=\"anchor\" href=\"#更新了图床\">#</a> 更新了图床</h2>\n",
             "tags": [
                 "网站更新内容",
                 "版本",
                 "ver1.1",
-                "更新"
+                "更新",
+                "版本"
             ]
         },
         {
-            "id": "https://a-zongzi.github.io/2022/04/30/web_updatelist/",
-            "url": "https://a-zongzi.github.io/2022/04/30/web_updatelist/",
-            "title": "blog功能更新大纲",
+            "id": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.0/",
+            "url": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.0/",
+            "title": "分类管理",
             "date_published": "2022-04-30T04:27:39.000Z",
-            "content_html": "<h3 id=\"1随机图床\"><a class=\"anchor\" href=\"#1随机图床\">#</a> 1，随机图床</h3>\n",
+            "content_html": "<h1 id=\"文章的功能\"><a class=\"anchor\" href=\"#文章的功能\">#</a> 文章的功能</h1>\n<h2 id=\"置顶文章\"><a class=\"anchor\" href=\"#置顶文章\">#</a> 置顶文章</h2>\n<p>在要置顶的文章.md 文件里设置 <code>sticky:true</code></p>\n<figure class=\"highlight markdown\"><figcaption data-lang=\"markdown\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>title:''</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>sticky: true</pre></td></tr></table></figure><h2 id=\"首页精选文章\"><a class=\"anchor\" href=\"#首页精选文章\">#</a> 首页精选文章</h2>\n<ol>\n<li>\n<p>打开 blog 文件下的 <code>config.yml</code>  文件找到 <code>category_map:</code> , 配置分类对文件夹的映射</p>\n<figure class=\"highlight yaml\"><figcaption data-lang=\"YAML\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token key atrule\">category_map</span><span class=\"token punctuation\">:</span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre>  <span class=\"token key atrule\">Python</span> <span class=\"token punctuation\">:</span> python </pre></td></tr><tr><td data-num=\"3\"></td><td><pre>  <span class=\"token key atrule\">编程语言</span> <span class=\"token punctuation\">:</span> computer_language</pre></td></tr><tr><td data-num=\"4\"></td><td><pre>  <span class=\"token key atrule\">Python教程-子木</span> <span class=\"token punctuation\">:</span> course_1</pre></td></tr></table></figure></li>\n<li>\n<p>设置封面图，打开 blog 文件下 <code>/source/_posts</code>  里面文章对应的文件夹，存放 <code>cover.jpg</code></p>\n</li>\n</ol>\n",
             "tags": [
                 "网站更新内容",
-                "大纲",
+                "版本",
+                "ver1.0",
                 "更新",
-                "日常",
-                "学习",
-                "Java",
-                "Python",
-                "etc-6",
-                "大纲"
+                "版本"
             ]
         },
         {

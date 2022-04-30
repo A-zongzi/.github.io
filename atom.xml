@@ -8,7 +8,7 @@
     <author>
       <name>Azongzi</name>
     </author>
-    <updated>2022-04-30T11:27:14.000Z</updated>
+    <updated>2022-04-30T11:55:47.000Z</updated>
     <category term="Java" />
     <category term="Python" />
     <category term="Anime" />
@@ -16,9 +16,26 @@
     <category term="Myself" />
     <category term="Life" />
     <entry>
-        <id>https://a-zongzi.github.io/2022/04/30/top/</id>
+        <id>https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/</id>
+        <title>Python_01</title>
+        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/"/>
+        <content type="html">&lt;h1 id=&#34;python&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#python&#34;&gt;#&lt;/a&gt; &lt;mark&gt;Python&lt;/mark&gt;&lt;/h1&gt;
+&lt;h6 id=&#34;学习进展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习进展&#34;&gt;#&lt;/a&gt; 学习进展：&lt;/h6&gt;
+&lt;p&gt;本人看的教学视频是&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXdENHkxbzdBUw==&#34;&gt; Python0 基础教学 - Python_子木&lt;/span&gt;，目前看到&lt;mark&gt; P59&lt;/mark&gt;，字典的实现效果&lt;/p&gt;
+&lt;p&gt;后续的学习笔记会更新过来～欢迎一起学习探讨呀！&lt;/p&gt;
+&lt;p&gt;·······&lt;/p&gt;
+</content>
+        <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computer-language/" />
+        <category term="Python" scheme="https://a-zongzi.github.io/categories/computer-language/python/" />
+        <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
+        <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+        <category term="笔记" scheme="https://a-zongzi.github.io/tags/%E7%AC%94%E8%AE%B0/" />
+        <updated>2022-04-30T11:55:47.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://a-zongzi.github.io/2022/04/30/me/top/</id>
         <title>关于我的个人Blog</title>
-        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/top/"/>
+        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/me/top/"/>
         <content type="html">&lt;h1 id=&#34;the-blog-of-azongzi&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-blog-of-azongzi&#34;&gt;#&lt;/a&gt; &lt;mark&gt;the Blog of Azongzi&lt;/mark&gt;&lt;/h1&gt;
 &lt;h2 id=&#34;1做blog的原因&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1做blog的原因&#34;&gt;#&lt;/a&gt; 1，做 blog 的原因：&lt;/h2&gt;
 &lt;p&gt;①分享自己的学习和生活&lt;/p&gt;
@@ -31,32 +48,40 @@
         <updated>2022-04-30T11:27:14.000Z</updated>
     </entry>
     <entry>
-        <id>https://a-zongzi.github.io/2022/04/30/ver1.1/</id>
-        <title>Ver1.1更新内容</title>
-        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/ver1.1/"/>
-        <content type="html">&lt;h2 id=&#34;更新了图床-如果你有更好的风景动漫图-请点击我的qq进行添加-谢谢啦-一起来完善网站吧&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新了图床-如果你有更好的风景动漫图-请点击我的qq进行添加-谢谢啦-一起来完善网站吧&#34;&gt;#&lt;/a&gt; 更新了图床 如果你有更好的风景动漫图 请点击我的 qq 进行添加 谢谢啦 一起来完善网站吧！&lt;/h2&gt;
+        <id>https://a-zongzi.github.io/2022/04/30/version_update/ver1.1/</id>
+        <title>随机图床</title>
+        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/version_update/ver1.1/"/>
+        <content type="html">&lt;h2 id=&#34;更新了图床&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新了图床&#34;&gt;#&lt;/a&gt; 更新了图床&lt;/h2&gt;
 </content>
         <category term="网站更新内容" scheme="https://a-zongzi.github.io/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/" />
         <category term="版本" scheme="https://a-zongzi.github.io/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/%E7%89%88%E6%9C%AC/" />
         <category term="ver1.1" scheme="https://a-zongzi.github.io/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/%E7%89%88%E6%9C%AC/ver1-1/" />
         <category term="更新" scheme="https://a-zongzi.github.io/tags/%E6%9B%B4%E6%96%B0/" />
+        <category term="版本" scheme="https://a-zongzi.github.io/tags/%E7%89%88%E6%9C%AC/" />
         <updated>2022-04-30T08:45:55.000Z</updated>
     </entry>
     <entry>
-        <id>https://a-zongzi.github.io/2022/04/30/web_updatelist/</id>
-        <title>blog功能更新大纲</title>
-        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/web_updatelist/"/>
-        <content type="html">&lt;h3 id=&#34;1随机图床&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1随机图床&#34;&gt;#&lt;/a&gt; 1，随机图床&lt;/h3&gt;
+        <id>https://a-zongzi.github.io/2022/04/30/version_update/ver1.0/</id>
+        <title>分类管理</title>
+        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/version_update/ver1.0/"/>
+        <content type="html">&lt;h1 id=&#34;文章的功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章的功能&#34;&gt;#&lt;/a&gt; 文章的功能&lt;/h1&gt;
+&lt;h2 id=&#34;置顶文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#置顶文章&#34;&gt;#&lt;/a&gt; 置顶文章&lt;/h2&gt;
+&lt;p&gt;在要置顶的文章.md 文件里设置 &lt;code&gt;sticky:true&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;figcaption data-lang=&#34;markdown&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;title:&#39;&#39;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sticky: true&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;首页精选文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#首页精选文章&#34;&gt;#&lt;/a&gt; 首页精选文章&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;打开 blog 文件下的 &lt;code&gt;config.yml&lt;/code&gt;  文件找到 &lt;code&gt;category_map:&lt;/code&gt; , 配置分类对文件夹的映射&lt;/p&gt;
+&lt;figure class=&#34;highlight yaml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;category_map&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;Python&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; python &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;编程语言&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; computer_language&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;Python教程-子木&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; course_1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;设置封面图，打开 blog 文件下 &lt;code&gt;/source/_posts&lt;/code&gt;  里面文章对应的文件夹，存放 &lt;code&gt;cover.jpg&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </content>
         <category term="网站更新内容" scheme="https://a-zongzi.github.io/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/" />
-        <category term="大纲" scheme="https://a-zongzi.github.io/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/%E5%A4%A7%E7%BA%B2/" />
+        <category term="版本" scheme="https://a-zongzi.github.io/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/%E7%89%88%E6%9C%AC/" />
+        <category term="ver1.0" scheme="https://a-zongzi.github.io/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/%E7%89%88%E6%9C%AC/ver1-0/" />
         <category term="更新" scheme="https://a-zongzi.github.io/tags/%E6%9B%B4%E6%96%B0/" />
-        <category term="日常" scheme="https://a-zongzi.github.io/tags/%E6%97%A5%E5%B8%B8/" />
-        <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
-        <category term="Java" scheme="https://a-zongzi.github.io/tags/Java/" />
-        <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
-        <category term="etc-6" scheme="https://a-zongzi.github.io/tags/etc-6/" />
-        <category term="大纲" scheme="https://a-zongzi.github.io/tags/%E5%A4%A7%E7%BA%B2/" />
+        <category term="版本" scheme="https://a-zongzi.github.io/tags/%E7%89%88%E6%9C%AC/" />
         <updated>2022-04-30T04:27:39.000Z</updated>
     </entry>
     <entry>

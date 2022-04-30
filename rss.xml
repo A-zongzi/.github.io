@@ -9,7 +9,7 @@
           <name>Azongzi</name>
         </author>
         <description>记录生活&amp;学习笔记</description>
-        <language>en</language>
+        <language>zh-CN</language>
         <pubDate>Sat, 30 Apr 2022 19:55:47 +0800</pubDate>
         <lastBuildDate>Sat, 30 Apr 2022 19:55:47 +0800</lastBuildDate>
         <category term="Java" />
@@ -19,11 +19,11 @@
         <category term="Myself" />
         <category term="Life" />
         <item>
-            <guid isPermalink="true">https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/</guid>
+            <guid isPermalink="true">https://a-zongzi.github.io/2022/04/30/computerlanguage/python/python_01/</guid>
             <title>Python_01</title>
-            <link>https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/</link>
-            <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computer-language/" />
-            <category term="Python" scheme="https://a-zongzi.github.io/categories/computer-language/python/" />
+            <link>https://a-zongzi.github.io/2022/04/30/computerlanguage/python/python_01/</link>
+            <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computerlanguage/" />
+            <category term="Python" scheme="https://a-zongzi.github.io/categories/computerlanguage/python/" />
             <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
             <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
             <category term="笔记" scheme="https://a-zongzi.github.io/tags/%E7%AC%94%E8%AE%B0/" />

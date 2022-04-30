@@ -16,17 +16,17 @@
     <category term="Myself" />
     <category term="Life" />
     <entry>
-        <id>https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/</id>
+        <id>https://a-zongzi.github.io/2022/04/30/computerlanguage/python/python_01/</id>
         <title>Python_01</title>
-        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/computer_language/python/python_01/"/>
+        <link rel="alternate" href="https://a-zongzi.github.io/2022/04/30/computerlanguage/python/python_01/"/>
         <content type="html">&lt;h1 id=&#34;python&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#python&#34;&gt;#&lt;/a&gt; &lt;mark&gt;Python&lt;/mark&gt;&lt;/h1&gt;
 &lt;h6 id=&#34;学习进展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#学习进展&#34;&gt;#&lt;/a&gt; 学习进展：&lt;/h6&gt;
 &lt;p&gt;本人看的教学视频是&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXdENHkxbzdBUw==&#34;&gt; Python0 基础教学 - Python_子木&lt;/span&gt;，目前看到&lt;mark&gt; P59&lt;/mark&gt;，字典的实现效果&lt;/p&gt;
 &lt;p&gt;后续的学习笔记会更新过来～欢迎一起学习探讨呀！&lt;/p&gt;
 &lt;p&gt;·······&lt;/p&gt;
 </content>
-        <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computer-language/" />
-        <category term="Python" scheme="https://a-zongzi.github.io/categories/computer-language/python/" />
+        <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computerlanguage/" />
+        <category term="Python" scheme="https://a-zongzi.github.io/categories/computerlanguage/python/" />
         <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
         <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
         <category term="笔记" scheme="https://a-zongzi.github.io/tags/%E7%AC%94%E8%AE%B0/" />

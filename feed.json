@@ -7,12 +7,32 @@
     "home_page_url": "https://A-zongzi.github.io",
     "items": [
         {
-            "id": "https://a-zongzi.github.io/2022/04/30/about/",
-            "url": "https://a-zongzi.github.io/2022/04/30/about/",
-            "title": "测试",
-            "date_published": "2022-04-30T02:25:20.000Z",
-            "content_html": "",
-            "tags": []
+            "id": "https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%88%86%E7%B1%BB%E7%94%A8%E6%B3%95_categories%E7%94%A8%E6%B3%95/",
+            "url": "https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%88%86%E7%B1%BB%E7%94%A8%E6%B3%95_categories%E7%94%A8%E6%B3%95/",
+            "title": "categories用法",
+            "date_published": "2022-04-30T04:51:49.000Z",
+            "content_html": "<p>categories:<br />\n 父子分类： [xx,xx]<br />\n 并列分类： - ‘xx’ ，换行下一个。</p>\n",
+            "tags": [
+                "文章功能",
+                "分类用法",
+                "学习"
+            ]
+        },
+        {
+            "id": "https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%A4%A7%E7%BA%B2/",
+            "url": "https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%A4%A7%E7%BA%B2/",
+            "title": "blog功能更新大纲",
+            "date_published": "2022-04-30T04:27:39.000Z",
+            "content_html": "<p>#1，categories 用法</p>\n",
+            "tags": [
+                "文章功能",
+                "大纲",
+                "学习",
+                "日常",
+                "Java",
+                "Python",
+                "etc-6"
+            ]
         },
         {
             "id": "https://a-zongzi.github.io/2022/04/27/hello-world/",

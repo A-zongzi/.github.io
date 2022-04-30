@@ -10,8 +10,8 @@
         </author>
         <description>记录生活&amp;学习笔记</description>
         <language>en</language>
-        <pubDate>Sat, 30 Apr 2022 10:25:20 +0800</pubDate>
-        <lastBuildDate>Sat, 30 Apr 2022 10:25:20 +0800</lastBuildDate>
+        <pubDate>Sat, 30 Apr 2022 12:51:49 +0800</pubDate>
+        <lastBuildDate>Sat, 30 Apr 2022 12:51:49 +0800</lastBuildDate>
         <category term="Java" />
         <category term="Python" />
         <category term="Anime" />
@@ -19,11 +19,32 @@
         <category term="Myself" />
         <category term="Life" />
         <item>
-            <guid isPermalink="true">https://a-zongzi.github.io/2022/04/30/about/</guid>
-            <title>测试</title>
-            <link>https://a-zongzi.github.io/2022/04/30/about/</link>
-            <pubDate>Sat, 30 Apr 2022 10:25:20 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <guid isPermalink="true">https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%88%86%E7%B1%BB%E7%94%A8%E6%B3%95_categories%E7%94%A8%E6%B3%95/</guid>
+            <title>categories用法</title>
+            <link>https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%88%86%E7%B1%BB%E7%94%A8%E6%B3%95_categories%E7%94%A8%E6%B3%95/</link>
+            <category term="文章功能" scheme="https://a-zongzi.github.io/categories/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD/" />
+            <category term="分类用法" scheme="https://a-zongzi.github.io/categories/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD/%E5%88%86%E7%B1%BB%E7%94%A8%E6%B3%95/" />
+            <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+            <pubDate>Sat, 30 Apr 2022 12:51:49 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;categories:&lt;br /&gt;
+ 父子分类： [xx,xx]&lt;br /&gt;
+ 并列分类： - ‘xx’ ，换行下一个。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%A4%A7%E7%BA%B2/</guid>
+            <title>blog功能更新大纲</title>
+            <link>https://a-zongzi.github.io/2022/04/30/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD_%E5%A4%A7%E7%BA%B2/</link>
+            <category term="文章功能" scheme="https://a-zongzi.github.io/categories/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD/" />
+            <category term="大纲" scheme="https://a-zongzi.github.io/categories/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD/%E5%A4%A7%E7%BA%B2/" />
+            <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+            <category term="日常" scheme="https://a-zongzi.github.io/tags/%E6%97%A5%E5%B8%B8/" />
+            <category term="Java" scheme="https://a-zongzi.github.io/tags/Java/" />
+            <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
+            <category term="etc-6" scheme="https://a-zongzi.github.io/tags/etc-6/" />
+            <pubDate>Sat, 30 Apr 2022 12:27:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;#1，categories 用法&lt;/p&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://a-zongzi.github.io/2022/04/27/hello-world/</guid>

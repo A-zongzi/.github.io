@@ -7,8 +7,8 @@
     "home_page_url": "https://A-zongzi.github.io",
     "items": [
         {
-            "id": "https://a-zongzi.github.io/2022/04/30/computerlanguage/python/python_01/",
-            "url": "https://a-zongzi.github.io/2022/04/30/computerlanguage/python/python_01/",
+            "id": "https://a-zongzi.github.io/2022/04/30/computer-language/python/python_01/",
+            "url": "https://a-zongzi.github.io/2022/04/30/computer-language/python/python_01/",
             "title": "Python_01",
             "date_published": "2022-04-30T11:55:47.000Z",
             "content_html": "<h1 id=\"python\"><a class=\"anchor\" href=\"#python\">#</a> <mark>Python</mark></h1>\n<h6 id=\"学习进展\"><a class=\"anchor\" href=\"#学习进展\">#</a> 学习进展：</h6>\n<p>本人看的教学视频是<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXdENHkxbzdBUw==\"> Python0 基础教学 - Python_子木</span>，目前看到<mark> P59</mark>，字典的实现效果</p>\n<p>后续的学习笔记会更新过来～欢迎一起学习探讨呀！</p>\n<p>·······</p>\n",
@@ -17,7 +17,8 @@
                 "Python",
                 "Python",
                 "学习",
-                "笔记"
+                "笔记",
+                "编程语言"
             ]
         },
         {

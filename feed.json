@@ -7,6 +7,18 @@
     "home_page_url": "https://A-zongzi.github.io",
     "items": [
         {
+            "id": "https://a-zongzi.github.io/2022/04/30/top/",
+            "url": "https://a-zongzi.github.io/2022/04/30/top/",
+            "title": "关于我的个人Blog",
+            "date_published": "2022-04-30T11:27:14.000Z",
+            "content_html": "<h1 id=\"the-blog-of-azongzi\"><a class=\"anchor\" href=\"#the-blog-of-azongzi\">#</a> <mark>the Blog of Azongzi</mark></h1>\n<h2 id=\"1做blog的原因\"><a class=\"anchor\" href=\"#1做blog的原因\">#</a> 1，做 blog 的原因：</h2>\n<p>①分享自己的学习和生活</p>\n<p>②养成写内容和整理笔记的习惯</p>\n<p>③最关键的一点，即对编程的兴趣和热爱（但是我专业是机械 o (╥﹏╥) o）</p>\n",
+            "tags": [
+                "网站更新内容",
+                "更新",
+                "日常"
+            ]
+        },
+        {
             "id": "https://a-zongzi.github.io/2022/04/30/ver1.1/",
             "url": "https://a-zongzi.github.io/2022/04/30/ver1.1/",
             "title": "Ver1.1更新内容",

@@ -7,6 +7,21 @@
     "home_page_url": "https://A-zongzi.github.io",
     "items": [
         {
+            "id": "https://a-zongzi.github.io/2022/05/02/language/English/english-reading/",
+            "url": "https://a-zongzi.github.io/2022/05/02/language/English/english-reading/",
+            "title": "英语六级阅读_01",
+            "date_published": "2022-05-02T08:32:00.000Z",
+            "content_html": "<h1 id=\"仔细阅读\"><a class=\"anchor\" href=\"#仔细阅读\">#</a> <mark>仔细阅读</mark></h1>\n<h2 id=\"解题步骤\"><a class=\"anchor\" href=\"#解题步骤\">#</a> <strong>解题步骤：</strong></h2>\n<h3 id=\"三步定位法顺序原则\"><a class=\"anchor\" href=\"#三步定位法顺序原则\">#</a> 三步定位法（顺序原则）</h3>\n<ol>\n<li>\n<p>找出题干定位词</p>\n<ul>\n<li>显性关键词：大写、数字、年代、时间、连词符单词</li>\n<li>谓语结构（动宾短语）及其改写</li>\n<li>核心名词（主语）及其改写</li>\n</ul>\n</li>\n<li>\n<p>回文定位</p>\n</li>\n<li>\n<p>正确选择</p>\n</li>\n</ol>\n<h3 id=\"区域解题出题原则\"><a class=\"anchor\" href=\"#区域解题出题原则\">#</a> 区域解题：（出题原则）</h3>\n<ol>\n<li>特殊标点： <code>：— ””</code></li>\n<li>转折（强对比）： <code>but / however / still / yet / instead / unfortunately / on the contrary / by contrast / in contrast to</code></li>\n<li>段落的首尾</li>\n</ol>\n<figure class=\"highlight mermaid\"><figcaption data-lang=\"mermaid\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">graph</span> TD</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>\t\tA<span class=\"token text string\">(读题)</span> <span class=\"token arrow operator\">--></span> B<span class=\"token text string\">(关键词定位)</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre>\t\tB <span class=\"token arrow operator\">--></span> C<span class=\"token text string\">(定位明确)</span></pre></td></tr><tr><td data-num=\"4\"></td><td><pre>\t\tC <span class=\"token arrow operator\">--></span> D<span class=\"token text string\">(本句后句解题)</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre>\t\tB <span class=\"token arrow operator\">--></span> E<span class=\"token text string\">(定位宽泛)</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>\t\tE <span class=\"token arrow operator\">--></span> F<span class=\"token text string\">(出题原则解题)</span></pre></td></tr></table></figure>",
+            "tags": [
+                "外语",
+                "英语",
+                "阅读",
+                "学习",
+                "ect6",
+                "英语"
+            ]
+        },
+        {
             "id": "https://a-zongzi.github.io/2022/04/30/computer-language/python/python_01/",
             "url": "https://a-zongzi.github.io/2022/04/30/computer-language/python/python_01/",
             "title": "Python_01",
@@ -26,7 +41,7 @@
             "url": "https://a-zongzi.github.io/2022/04/30/me/top/",
             "title": "关于我的个人Blog",
             "date_published": "2022-04-30T11:27:14.000Z",
-            "content_html": "<h1 id=\"the-blog-of-azongzi\"><a class=\"anchor\" href=\"#the-blog-of-azongzi\">#</a> <mark>the Blog of Azongzi</mark></h1>\n<h2 id=\"1做blog的原因\"><a class=\"anchor\" href=\"#1做blog的原因\">#</a> 1，做 blog 的原因：</h2>\n<p>①分享自己的学习和生活</p>\n<p>②养成写内容和整理笔记的习惯</p>\n<p>③最关键的一点，即对编程的兴趣和热爱（但是我专业是机械 o (╥﹏╥) o）</p>\n",
+            "content_html": "<h1 id=\"the-blog-of-azongzi\"><a class=\"anchor\" href=\"#the-blog-of-azongzi\">#</a> <mark>the Blog of Azongzi</mark></h1>\n<h2 id=\"1做blog的原因\"><a class=\"anchor\" href=\"#1做blog的原因\">#</a> 1，做 blog 的原因：</h2>\n<p>①分享自己的学习和生活</p>\n<p>②养成写内容和整理笔记的习惯</p>\n<p>③最关键的一点，即对编程的兴趣和热爱（但是我专业是机械 o (╥﹏╥) o）</p>\n<h2 id=\"2blog食用手册\"><a class=\"anchor\" href=\"#2blog食用手册\">#</a> 2，Blog 食用手册：</h2>\n",
             "tags": [
                 "网站更新内容",
                 "更新",

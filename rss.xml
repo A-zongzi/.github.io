@@ -10,14 +10,23 @@
         </author>
         <description>记录生活&amp;学习笔记</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 02 May 2022 16:32:00 +0800</pubDate>
-        <lastBuildDate>Mon, 02 May 2022 16:32:00 +0800</lastBuildDate>
+        <pubDate>Tue, 03 May 2022 16:15:33 +0800</pubDate>
+        <lastBuildDate>Tue, 03 May 2022 16:15:33 +0800</lastBuildDate>
         <category term="Java" />
         <category term="Python" />
         <category term="Anime" />
         <category term="Music" />
         <category term="Myself" />
         <category term="Life" />
+        <item>
+            <guid isPermalink="true">https://a-zongzi.github.io/2022/05/03/internet-race/</guid>
+            <title>internet+_race</title>
+            <link>https://a-zongzi.github.io/2022/05/03/internet-race/</link>
+            <category term=" " scheme="https://a-zongzi.github.io/categories/" />
+            <category term=" " scheme="https://a-zongzi.github.io/tags/" />
+            <pubDate>Tue, 03 May 2022 16:15:33 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://a-zongzi.github.io/2022/05/02/language/English/english-reading/</guid>
             <title>英语六级阅读_01</title>

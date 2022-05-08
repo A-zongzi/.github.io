@@ -54,7 +54,7 @@
             "url": "https://a-zongzi.github.io/2022/04/30/me/top/",
             "title": "关于我的个人Blog",
             "date_published": "2022-04-30T11:27:14.000Z",
-            "content_html": "<h1 id=\"the-blog-of-azongzi\"><a class=\"anchor\" href=\"#the-blog-of-azongzi\">#</a> <mark>the Blog of Azongzi</mark></h1>\n<h2 id=\"1做blog的原因\"><a class=\"anchor\" href=\"#1做blog的原因\">#</a> 1，做 blog 的原因：</h2>\n<p>①分享自己的学习和生活</p>\n<p>②养成写内容和整理笔记的习惯</p>\n<p>③最关键的一点，即对编程的兴趣和热爱（但是我专业是机械 o (╥﹏╥) o）</p>\n<h2 id=\"2blog食用手册\"><a class=\"anchor\" href=\"#2blog食用手册\">#</a> 2，Blog 食用手册：</h2>\n",
+            "content_html": "<h1 id=\"the-blog-of-azongzi\"><a class=\"anchor\" href=\"#the-blog-of-azongzi\">#</a> <mark>the Blog of Azongzi</mark></h1>\n<h2 id=\"1做blog的原因\"><a class=\"anchor\" href=\"#1做blog的原因\">#</a> 1，做 blog 的原因：</h2>\n<p>①分享自己的学习和生活</p>\n<p>②养成写内容和整理笔记的习惯</p>\n<p>③最关键的一点，即对编程的兴趣和热爱（但是我专业是机械 o (╥﹏╥) o）</p>\n<h2 id=\"2blog食用手册\"><a class=\"anchor\" href=\"#2blog食用手册\">#</a> 2，Blog 食用手册：</h2>\n<ul>\n<li>\n<p>想知道我的近况的话，请点击 <code>日常</code> 就可以查看啦 (〃'▽'〃)</p>\n</li>\n<li>\n<p>想知道我最近的文章的话，请点击 <code>文章</code> 子目录任意一个，推荐 <code>归档</code> （按时间排序）</p>\n</li>\n<li>\n<p>欢迎大家留言┭┮﹏┭┮（感觉建这个网站一直是自己一个人和自己对话 hhh）</p>\n</li>\n</ul>\n",
             "tags": [
                 "网站更新内容",
                 "更新",
@@ -62,25 +62,11 @@
             ]
         },
         {
-            "id": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.1/",
-            "url": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.1/",
-            "title": "随机图床",
-            "date_published": "2022-04-30T08:45:55.000Z",
-            "content_html": "<h2 id=\"更新了图床\"><a class=\"anchor\" href=\"#更新了图床\">#</a> 更新了图床</h2>\n",
-            "tags": [
-                "网站更新内容",
-                "版本",
-                "ver1.1",
-                "更新",
-                "版本"
-            ]
-        },
-        {
             "id": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.0/",
             "url": "https://a-zongzi.github.io/2022/04/30/version_update/ver1.0/",
             "title": "分类管理",
             "date_published": "2022-04-30T04:27:39.000Z",
-            "content_html": "<h1 id=\"文章的功能\"><a class=\"anchor\" href=\"#文章的功能\">#</a> 文章的功能</h1>\n<h2 id=\"置顶文章\"><a class=\"anchor\" href=\"#置顶文章\">#</a> 置顶文章</h2>\n<p>在要置顶的文章.md 文件里设置 <code>sticky:true</code></p>\n<figure class=\"highlight markdown\"><figcaption data-lang=\"markdown\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>title:''</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>sticky: true</pre></td></tr></table></figure><h2 id=\"首页精选文章\"><a class=\"anchor\" href=\"#首页精选文章\">#</a> 首页精选文章</h2>\n<ol>\n<li>\n<p>打开 blog 文件下的 <code>config.yml</code>  文件找到 <code>category_map:</code> , 配置分类对文件夹的映射</p>\n<figure class=\"highlight yaml\"><figcaption data-lang=\"YAML\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token key atrule\">category_map</span><span class=\"token punctuation\">:</span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre>  <span class=\"token key atrule\">Python</span> <span class=\"token punctuation\">:</span> python </pre></td></tr><tr><td data-num=\"3\"></td><td><pre>  <span class=\"token key atrule\">编程语言</span> <span class=\"token punctuation\">:</span> computer_language</pre></td></tr><tr><td data-num=\"4\"></td><td><pre>  <span class=\"token key atrule\">Python教程-子木</span> <span class=\"token punctuation\">:</span> course_1</pre></td></tr></table></figure></li>\n<li>\n<p>设置封面图，打开 blog 文件下 <code>/source/_posts</code>  里面文章对应的文件夹，存放 <code>cover.jpg</code></p>\n</li>\n</ol>\n<h1 id=\"添加分类及标签\"><a class=\"anchor\" href=\"#添加分类及标签\">#</a> 添加分类及标签</h1>\n<h3 id=\"创建分类\"><a class=\"anchor\" href=\"#创建分类\">#</a> 创建<mark>分类</mark></h3>\n<ol>\n<li>\n<p>在 blog 文件夹下打开命令行并输入以下命令</p>\n<pre><code>hexo new page categories\n</code></pre>\n</li>\n<li>\n<p>输入完成后会提示在一个路径下创建了 <code>index.md</code> ，打开后添加内容</p>\n<pre><code>title: categories\ndate: 2022-04-30 21:12:32\ntype: ''\n</code></pre>\n</li>\n</ol>\n",
+            "content_html": "<h1 id=\"文章的功能\"><a class=\"anchor\" href=\"#文章的功能\">#</a> 文章的功能</h1>\n<h2 id=\"置顶文章\"><a class=\"anchor\" href=\"#置顶文章\">#</a> 置顶文章</h2>\n<p>在要置顶的文章.md 文件里设置 <code>sticky:true</code></p>\n<figure class=\"highlight markdown\"><figcaption data-lang=\"markdown\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>title:''</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>sticky: true</pre></td></tr></table></figure><h2 id=\"首页精选文章\"><a class=\"anchor\" href=\"#首页精选文章\">#</a> 首页精选文章</h2>\n<ol>\n<li>\n<p>打开 blog 文件下的 <code>config.yml</code>  文件找到 <code>category_map:</code> , 配置分类对文件夹的映射</p>\n<figure class=\"highlight yaml\"><figcaption data-lang=\"YAML\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token key atrule\">category_map</span><span class=\"token punctuation\">:</span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre>  <span class=\"token key atrule\">Python</span> <span class=\"token punctuation\">:</span> python </pre></td></tr><tr><td data-num=\"3\"></td><td><pre>  <span class=\"token key atrule\">编程语言</span> <span class=\"token punctuation\">:</span> computer_language</pre></td></tr><tr><td data-num=\"4\"></td><td><pre>  <span class=\"token key atrule\">Python教程-子木</span> <span class=\"token punctuation\">:</span> course_1</pre></td></tr></table></figure></li>\n<li>\n<p>设置封面图，打开 blog 文件下 <code>/source/_posts</code>  里面文章对应的文件夹，存放 <code>cover.jpg</code></p>\n</li>\n</ol>\n<h1 id=\"添加分类及标签\"><a class=\"anchor\" href=\"#添加分类及标签\">#</a> 添加分类及标签</h1>\n<h3 id=\"创建分类\"><a class=\"anchor\" href=\"#创建分类\">#</a> 创建<mark>分类</mark></h3>\n<ol>\n<li>\n<p>在 blog 文件夹下打开命令行并输入以下命令</p>\n<pre><code>hexo new page categories\n</code></pre>\n</li>\n<li>\n<p>输入完成后会提示在一个路径下创建了 <code>index.md</code> ，打开后添加内容</p>\n<pre><code>title: categories\ndate: 2022-04-30 21:12:32\ntype: ''\n</code></pre>\n</li>\n</ol>\n<p>#更新了图床</p>\n",
             "tags": [
                 "网站更新内容",
                 "版本",

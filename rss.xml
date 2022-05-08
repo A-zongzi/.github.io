@@ -24,8 +24,8 @@
             <link>https://a-zongzi.github.io/2022/05/07/language/English/english-zj/</link>
             <category term="外语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/" />
             <category term="英语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/%E8%8B%B1%E8%AF%AD/" />
-            <category term="Lemon" scheme="https://a-zongzi.github.io/tags/Lemon/" />
             <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
+            <category term="Lemon" scheme="https://a-zongzi.github.io/tags/Lemon/" />
             <pubDate>Sat, 07 May 2022 08:31:51 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;语法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#语法&#34;&gt;#&lt;/a&gt; &lt;mark&gt;语法&lt;/mark&gt;&lt;/h1&gt;
 &lt;h2 id=&#34;准备工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#准备工作&#34;&gt;#&lt;/a&gt; 准备工作&lt;/h2&gt;
@@ -39,13 +39,43 @@
 		A(句子叙述的主体) --&gt; B(主动语态) --&gt; C(发出动作)
 		A --&gt; D(被动语态) --&gt; E(承受动作)&lt;/pre&gt;
 &lt;p&gt;&lt;ins class=&#34;wavy success&#34;&gt;祈使句可以省略 S&lt;/ins&gt;&lt;br /&gt;
-eg.&lt;span class=&#34;blue&#34;&gt;You must stop!→Stop！&lt;/span&gt;&lt;/p&gt;
+eg.&lt;span class=&#34;blue&#34;&gt;&lt;ins class=&#34;wavy success&#34;&gt;You&lt;/ins&gt; must stop!→Stop！&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;谓&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谓&#34;&gt;#&lt;/a&gt; 谓&lt;/h3&gt;
 &lt;p&gt;表示 S” 做什么” 或” 是什么”&lt;br /&gt;
-eg.She &lt;span class=&#34;label warning&#34;&gt;&lt;ruby&gt;speaks&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;谓语&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; a little French&lt;/span&gt;&lt;sup&gt; 黄色框内的即为谓语部分&lt;/sup&gt;&lt;/p&gt;
+eg.She &lt;span class=&#34;label info&#34;&gt;&lt;ruby&gt;speaks&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;谓语&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; a little French&lt;/span&gt;&lt;sup&gt; 框内的即为谓语部分&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;o&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#o&#34;&gt;#&lt;/a&gt; O&lt;/h3&gt;
+&lt;p&gt;表示动作的接受者&lt;br /&gt;
+ eg.&lt;span class=&#34;blue&#34;&gt;He passed &lt;ruby&gt;me&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;间 o&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;the book&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;直 o | 动作直接的接受者&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;p&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#p&#34;&gt;#&lt;/a&gt; P&lt;/h3&gt;
+&lt;p&gt;表示 S&amp;quot;是什么样&amp;quot;,&lt;ruby&gt; 系动词&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;和 S&amp;amp;P 组成完整句子&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; 后&lt;br /&gt;
+ eg.&lt;span class=&#34;blue&#34;&gt;The flower smells &lt;ruby&gt;great&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;P&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;attr&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#attr&#34;&gt;#&lt;/a&gt; attr&lt;/h3&gt;
+&lt;p&gt;表示限定，修饰 n/pron...&lt;br /&gt;
+eg.&lt;span class=&#34;blue&#34;&gt;The place &lt;ruby&gt;I visited&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;后置定语&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ad&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ad&#34;&gt;#&lt;/a&gt; ad&lt;/h3&gt;
+&lt;p&gt;表示状态&lt;br /&gt;
+ eg.&lt;span class=&#34;blue&#34;&gt;This is good &lt;ruby&gt;enough&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;程度 ad&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;c&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#c&#34;&gt;#&lt;/a&gt; C&lt;/h3&gt;
+&lt;pre class=&#34;mermaid&#34;&gt;graph LR
+A(补充S.O细节) --&gt; B(SC)
+A --&gt; C(OC)&lt;/pre&gt;
+&lt;p&gt;eg.&lt;span class=&#34;blue&#34;&gt;Im &lt;ruby&gt;angry&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;SC&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;eg.&lt;span class=&#34;blue&#34;&gt;He made me &lt;ruby&gt;cry&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;OC&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;appo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#appo&#34;&gt;#&lt;/a&gt; appo&lt;/h3&gt;
+&lt;p&gt;表示地位相同&lt;br /&gt;
+ eg.&lt;span class=&#34;blue&#34;&gt;&lt;ins class=&#34;wavy&#34;&gt;Paris&lt;/ins&gt;,&lt;ins class=&#34;wavy success&#34;&gt;the capitd of France&lt;/ins&gt;,is a beautiful city&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;插入语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#插入语&#34;&gt;#&lt;/a&gt; 插入语&lt;/h3&gt;
+&lt;p&gt;表示附加说明，本身不作句子的任何成分&lt;br /&gt;
+ eg.&lt;span class=&#34;blue&#34;&gt;&lt;ruby&gt;Strange&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;语气&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;,there is nobody in the room&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/details&gt;
-&lt;pre&gt;&lt;code&gt;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;基础知识&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础知识&#34;&gt;#&lt;/a&gt; 基础知识&lt;/h2&gt;
+&lt;details class=&#34;danger&#34;&gt;&lt;summary&gt;简单句五大基本句型+谚语应用&lt;/summary&gt;&lt;div&gt;
+&lt;h3 id=&#34;sviad&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sviad&#34;&gt;#&lt;/a&gt; S+Vi(+ad)&lt;/h3&gt;
+&lt;h3 id=&#34;svto&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#svto&#34;&gt;#&lt;/a&gt; S+Vt+O&lt;/h3&gt;
+&lt;h3 id=&#34;sv间o直o双o&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sv间o直o双o&#34;&gt;#&lt;/a&gt; S+V + 间 O + 直 O (双 O)&lt;/h3&gt;
+&lt;h3 id=&#34;slvpsc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#slvpsc&#34;&gt;#&lt;/a&gt; S+lV+P(SC)&lt;/h3&gt;
+&lt;h3 id=&#34;svooc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#svooc&#34;&gt;#&lt;/a&gt; S+V+O+OC&lt;/h3&gt;
+&lt;/div&gt;&lt;/details&gt;
  ]]></description>
         </item>
         <item>
@@ -55,9 +85,9 @@ eg.She &lt;span class=&#34;label warning&#34;&gt;&lt;ruby&gt;speaks&lt;rp&gt;(&l
             <category term="外语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/" />
             <category term="英语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/%E8%8B%B1%E8%AF%AD/" />
             <category term="阅读" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/%E8%8B%B1%E8%AF%AD/%E9%98%85%E8%AF%BB/" />
-            <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
             <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
             <category term="ect6" scheme="https://a-zongzi.github.io/tags/ect6/" />
+            <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
             <pubDate>Mon, 02 May 2022 16:32:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;仔细阅读&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#仔细阅读&#34;&gt;#&lt;/a&gt; &lt;mark&gt;仔细阅读&lt;/mark&gt;&lt;/h1&gt;
 &lt;h2 id=&#34;解题步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤&#34;&gt;#&lt;/a&gt; &lt;strong&gt;解题步骤：&lt;/strong&gt;&lt;/h2&gt;
@@ -92,8 +122,8 @@ eg.She &lt;span class=&#34;label warning&#34;&gt;&lt;ruby&gt;speaks&lt;rp&gt;(&l
             <link>https://a-zongzi.github.io/2022/04/30/computer-language/python/python_01/</link>
             <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computer-language/" />
             <category term="Python" scheme="https://a-zongzi.github.io/categories/computer-language/python/" />
-            <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
             <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+            <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
             <category term="笔记" scheme="https://a-zongzi.github.io/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="编程语言" scheme="https://a-zongzi.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <pubDate>Sat, 30 Apr 2022 19:55:47 +0800</pubDate>

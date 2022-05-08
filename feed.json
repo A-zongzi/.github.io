@@ -11,12 +11,12 @@
             "url": "https://a-zongzi.github.io/2022/05/07/language/English/english-zj/",
             "title": "Lemonの笔记整理",
             "date_published": "2022-05-07T00:31:51.000Z",
-            "content_html": "<h1 id=\"语法\"><a class=\"anchor\" href=\"#语法\">#</a> <mark>语法</mark></h1>\n<h2 id=\"准备工作\"><a class=\"anchor\" href=\"#准备工作\">#</a> 准备工作</h2>\n<div class=\"note info\">\n<p>在认识语法前需要认识的内容</p>\n</div>\n<details class=\"danger\"><summary>认识s、谓、o、p、attr、ad、c</summary><div>\n<h3 id=\"s\"><a class=\"anchor\" href=\"#s\">#</a> S</h3>\n<p>表示句子叙述的主体</p>\n<pre class=\"mermaid\">graph LR\n\t\tA(句子叙述的主体) --> B(主动语态) --> C(发出动作)\n\t\tA --> D(被动语态) --> E(承受动作)</pre>\n<p><ins class=\"wavy success\">祈使句可以省略 S</ins><br />\neg.<span class=\"blue\">You must stop!→Stop！</span></p>\n<h3 id=\"谓\"><a class=\"anchor\" href=\"#谓\">#</a> 谓</h3>\n<p>表示 S” 做什么” 或” 是什么”<br />\neg.She <span class=\"label warning\"><ruby>speaks<rp>(</rp><rt>谓语</rt><rp>)</rp></ruby> a little French</span><sup> 黄色框内的即为谓语部分</sup></p>\n</div></details>\n<pre><code>\n</code></pre>\n",
+            "content_html": "<h1 id=\"语法\"><a class=\"anchor\" href=\"#语法\">#</a> <mark>语法</mark></h1>\n<h2 id=\"准备工作\"><a class=\"anchor\" href=\"#准备工作\">#</a> 准备工作</h2>\n<div class=\"note info\">\n<p>在认识语法前需要认识的内容</p>\n</div>\n<details class=\"danger\"><summary>认识s、谓、o、p、attr、ad、c</summary><div>\n<h3 id=\"s\"><a class=\"anchor\" href=\"#s\">#</a> S</h3>\n<p>表示句子叙述的主体</p>\n<pre class=\"mermaid\">graph LR\n\t\tA(句子叙述的主体) --> B(主动语态) --> C(发出动作)\n\t\tA --> D(被动语态) --> E(承受动作)</pre>\n<p><ins class=\"wavy success\">祈使句可以省略 S</ins><br />\neg.<span class=\"blue\"><ins class=\"wavy success\">You</ins> must stop!→Stop！</span></p>\n<h3 id=\"谓\"><a class=\"anchor\" href=\"#谓\">#</a> 谓</h3>\n<p>表示 S” 做什么” 或” 是什么”<br />\neg.She <span class=\"label info\"><ruby>speaks<rp>(</rp><rt>谓语</rt><rp>)</rp></ruby> a little French</span><sup> 框内的即为谓语部分</sup></p>\n<h3 id=\"o\"><a class=\"anchor\" href=\"#o\">#</a> O</h3>\n<p>表示动作的接受者<br />\n eg.<span class=\"blue\">He passed <ruby>me<rp>(</rp><rt>间 o</rt><rp>)</rp></ruby> <ruby>the book<rp>(</rp><rt>直 o | 动作直接的接受者</rt><rp>)</rp></ruby></span></p>\n<h3 id=\"p\"><a class=\"anchor\" href=\"#p\">#</a> P</h3>\n<p>表示 S&quot;是什么样&quot;,<ruby> 系动词<rp> (</rp><rt>和 S&amp;P 组成完整句子</rt><rp>)</rp></ruby> 后<br />\n eg.<span class=\"blue\">The flower smells <ruby>great<rp>(</rp><rt>P</rt><rp>)</rp></ruby></span></p>\n<h3 id=\"attr\"><a class=\"anchor\" href=\"#attr\">#</a> attr</h3>\n<p>表示限定，修饰 n/pron...<br />\neg.<span class=\"blue\">The place <ruby>I visited<rp>(</rp><rt>后置定语</rt><rp>)</rp></ruby></span></p>\n<h3 id=\"ad\"><a class=\"anchor\" href=\"#ad\">#</a> ad</h3>\n<p>表示状态<br />\n eg.<span class=\"blue\">This is good <ruby>enough<rp>(</rp><rt>程度 ad</rt><rp>)</rp></ruby></span></p>\n<h3 id=\"c\"><a class=\"anchor\" href=\"#c\">#</a> C</h3>\n<pre class=\"mermaid\">graph LR\nA(补充S.O细节) --> B(SC)\nA --> C(OC)</pre>\n<p>eg.<span class=\"blue\">Im <ruby>angry<rp>(</rp><rt>SC</rt><rp>)</rp></ruby></span></p>\n<p>eg.<span class=\"blue\">He made me <ruby>cry<rp>(</rp><rt>OC</rt><rp>)</rp></ruby></span></p>\n<h3 id=\"appo\"><a class=\"anchor\" href=\"#appo\">#</a> appo</h3>\n<p>表示地位相同<br />\n eg.<span class=\"blue\"><ins class=\"wavy\">Paris</ins>,<ins class=\"wavy success\">the capitd of France</ins>,is a beautiful city</span></p>\n<h3 id=\"插入语\"><a class=\"anchor\" href=\"#插入语\">#</a> 插入语</h3>\n<p>表示附加说明，本身不作句子的任何成分<br />\n eg.<span class=\"blue\"><ruby>Strange<rp>(</rp><rt>语气</rt><rp>)</rp></ruby>,there is nobody in the room</span></p>\n</div></details>\n<h2 id=\"基础知识\"><a class=\"anchor\" href=\"#基础知识\">#</a> 基础知识</h2>\n<details class=\"danger\"><summary>简单句五大基本句型+谚语应用</summary><div>\n<h3 id=\"sviad\"><a class=\"anchor\" href=\"#sviad\">#</a> S+Vi(+ad)</h3>\n<h3 id=\"svto\"><a class=\"anchor\" href=\"#svto\">#</a> S+Vt+O</h3>\n<h3 id=\"sv间o直o双o\"><a class=\"anchor\" href=\"#sv间o直o双o\">#</a> S+V + 间 O + 直 O (双 O)</h3>\n<h3 id=\"slvpsc\"><a class=\"anchor\" href=\"#slvpsc\">#</a> S+lV+P(SC)</h3>\n<h3 id=\"svooc\"><a class=\"anchor\" href=\"#svooc\">#</a> S+V+O+OC</h3>\n</div></details>\n",
             "tags": [
                 "外语",
                 "英语",
-                "Lemon",
-                "英语"
+                "英语",
+                "Lemon"
             ]
         },
         {
@@ -29,9 +29,9 @@
                 "外语",
                 "英语",
                 "阅读",
-                "英语",
                 "学习",
-                "ect6"
+                "ect6",
+                "英语"
             ]
         },
         {
@@ -43,8 +43,8 @@
             "tags": [
                 "编程语言",
                 "Python",
-                "Python",
                 "学习",
+                "Python",
                 "笔记",
                 "编程语言"
             ]

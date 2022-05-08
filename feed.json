@@ -11,7 +11,7 @@
             "url": "https://a-zongzi.github.io/2022/05/07/language/English/english-zj/",
             "title": "Lemonの笔记整理",
             "date_published": "2022-05-07T00:31:51.000Z",
-            "content_html": "<h1 id=\"语法\"><a class=\"anchor\" href=\"#语法\">#</a> <mark>语法</mark></h1>\n<h2 id=\"准备工作\"><a class=\"anchor\" href=\"#准备工作\">#</a> 准备工作</h2>\n<div class=\"note info\">\n<p>在认识语法前需要认识的内容</p>\n</div>\n<details class=\"danger\"><summary>认识s、谓、o、p、attr、ad、c</summary><div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"s\">\n<p>S 表示句子叙述的主体</p>\n<pre class=\"mermaid\">graph LR\n\t\tA(句子叙述的主体) --> B(主动语态) --> C(发出动作)\n\t\tA --> D(被动语态) --> E(承受动作)</pre>\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"谓\">\n<p>额</p>\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"o\">\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"p\">\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"attr\">\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"ad\">\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"c\">\n</div>\n</div></details>\n",
+            "content_html": "<h1 id=\"语法\"><a class=\"anchor\" href=\"#语法\">#</a> <mark>语法</mark></h1>\n<h2 id=\"准备工作\"><a class=\"anchor\" href=\"#准备工作\">#</a> 准备工作</h2>\n<div class=\"note info\">\n<p>在认识语法前需要认识的内容</p>\n</div>\n<details class=\"danger\"><summary>认识s、谓、o、p、attr、ad、c</summary><div>\n<h3 id=\"s\"><a class=\"anchor\" href=\"#s\">#</a> S</h3>\n<p>表示句子叙述的主体</p>\n<pre class=\"mermaid\">graph LR\n\t\tA(句子叙述的主体) --> B(主动语态) --> C(发出动作)\n\t\tA --> D(被动语态) --> E(承受动作)</pre>\n<p><ins class=\"wavy success\">祈使句可以省略 S</ins><br />\neg.<span class=\"blue\">You must stop!→Stop！</span></p>\n<h3 id=\"谓\"><a class=\"anchor\" href=\"#谓\">#</a> 谓</h3>\n<p>表示 S” 做什么” 或” 是什么”<br />\neg.She <span class=\"label warning\"><ruby>speaks<rp>(</rp><rt>谓语</rt><rp>)</rp></ruby> a little French</span><sup> 黄色框内的即为谓语部分</sup></p>\n</div></details>\n<pre><code>\n</code></pre>\n",
             "tags": [
                 "外语",
                 "英语",
@@ -24,13 +24,13 @@
             "url": "https://a-zongzi.github.io/2022/05/02/language/English/english-reading/",
             "title": "英语六级阅读_01",
             "date_published": "2022-05-02T08:32:00.000Z",
-            "content_html": "<h1 id=\"仔细阅读\"><a class=\"anchor\" href=\"#仔细阅读\">#</a> <mark>仔细阅读</mark></h1>\n<h2 id=\"解题步骤\"><a class=\"anchor\" href=\"#解题步骤\">#</a> <strong>解题步骤：</strong></h2>\n<pre class=\"mermaid\">graph TD\n\t\tA(读题) --> B(关键词定位)\n\t\tB --> C(定位明确)\n\t\tC --> D(本句后句解题)\n\t\tB --> E(定位宽泛)\n\t\tE --> F(出题原则解题)</pre>\n<h3 id=\"读题关键词定位\"><a class=\"anchor\" href=\"#读题关键词定位\">#</a> 读题 &amp;&amp; 关键词定位：</h3>\n<p>找出五道题的题干定位词</p>\n<ul>\n<li>显性关键词：大写、数字、年代、时间、连词符单词</li>\n<li>谓语结构（动宾短语）及其改写</li>\n<li>核心名词（主语）及其改写<br />\n ### 定位明确：<br />\n按顺序阅读的方法用关键词找到定位句，在这句话以及后一句话进行解题。<br />\n比对谓语，判断是否有同义替换</li>\n</ul>\n<h3 id=\"定位宽泛\"><a class=\"anchor\" href=\"#定位宽泛\">#</a> 定位宽泛：</h3>\n<p>找不到的话 按以下三个出题原则依次寻找，然后进行解题</p>\n<ul>\n<li>特殊标点： <code>：— ””</code></li>\n<li>转折（强对比）： <code>but / however / still / yet / instead / unfortunately / on the contrary / by contrast / in contrast to</code></li>\n<li>段落的首尾</li>\n</ul>\n",
+            "content_html": "<h1 id=\"仔细阅读\"><a class=\"anchor\" href=\"#仔细阅读\">#</a> <mark>仔细阅读</mark></h1>\n<h2 id=\"解题步骤\"><a class=\"anchor\" href=\"#解题步骤\">#</a> <strong>解题步骤：</strong></h2>\n<pre class=\"mermaid\">graph TD\n\t\tA(读题) --> B(关键词定位)\n\t\tB --> C(定位明确)\n\t\tC --> D(本句后句解题)\n\t\tB --> E(定位宽泛)\n\t\tE --> F(出题原则解题)</pre>\n<h3 id=\"读题关键词定位\"><a class=\"anchor\" href=\"#读题关键词定位\">#</a> 读题 &amp;&amp; 关键词定位：</h3>\n<p>找出五道题的题干定位词</p>\n<ul>\n<li>显性关键词：大写、数字、年代、时间、连词符单词</li>\n<li>谓语结构（动宾短语）及其改写</li>\n<li>核心名词（主语）及其改写</li>\n</ul>\n<h3 id=\"定位明确\"><a class=\"anchor\" href=\"#定位明确\">#</a> 定位明确：</h3>\n<p>按顺序阅读的方法用关键词找到定位句，在这句话以及后一句话进行解题。<br />\n比对谓语，判断是否有同义替换</p>\n<h3 id=\"定位宽泛\"><a class=\"anchor\" href=\"#定位宽泛\">#</a> 定位宽泛：</h3>\n<p>找不到的话 按以下三个出题原则依次寻找，然后进行解题</p>\n<ul>\n<li>特殊标点： <code>：— ””</code></li>\n<li>转折（强对比）： <code>but / however / still / yet / instead / unfortunately / on the contrary / by contrast / in contrast to</code></li>\n<li>段落的首尾</li>\n</ul>\n",
             "tags": [
                 "外语",
                 "英语",
                 "阅读",
-                "学习",
                 "英语",
+                "学习",
                 "ect6"
             ]
         },

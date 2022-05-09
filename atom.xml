@@ -71,8 +71,8 @@ A --&gt; C(OC)&lt;/pre&gt;
 </content>
         <category term="外语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/" />
         <category term="英语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/%E8%8B%B1%E8%AF%AD/" />
-        <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
         <category term="Lemon" scheme="https://a-zongzi.github.io/tags/Lemon/" />
+        <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
         <updated>2022-05-07T00:31:51.000Z</updated>
     </entry>
     <entry>
@@ -107,15 +107,15 @@ A --&gt; C(OC)&lt;/pre&gt;
 &lt;h1 id=&#34;翻译&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; 翻译&lt;/h1&gt;
 &lt;h2 id=&#34;解题步骤-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-2&#34;&gt;#&lt;/a&gt; 解题步骤&lt;/h2&gt;
 &lt;pre class=&#34;mermaid&#34;&gt;graph LR
-A(步骤)--&gt;B(解决逗号)---C(分句.介词短语.连词.非谓语动词)
-A--&gt;D(找出主干.添定加状)
+A(步骤)--&gt;B(解决逗号)---C(方法:分句.介词短语.连词.非谓语动词)
+A--&gt;D(找出主干)--&gt;G(添定加状)
 E(细节)--&gt;F(九个细节)&lt;/pre&gt;
 </content>
         <category term="外语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/" />
         <category term="英语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/%E8%8B%B1%E8%AF%AD/" />
         <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
-        <category term="ect6" scheme="https://a-zongzi.github.io/tags/ect6/" />
         <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
+        <category term="ect6" scheme="https://a-zongzi.github.io/tags/ect6/" />
         <updated>2022-05-02T08:32:00.000Z</updated>
     </entry>
     <entry>

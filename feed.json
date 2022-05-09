@@ -15,8 +15,8 @@
             "tags": [
                 "外语",
                 "英语",
-                "英语",
-                "Lemon"
+                "Lemon",
+                "英语"
             ]
         },
         {
@@ -24,13 +24,13 @@
             "url": "https://a-zongzi.github.io/2022/05/02/language/English/english-reading/",
             "title": "英语六级",
             "date_published": "2022-05-02T08:32:00.000Z",
-            "content_html": "<h1 id=\"仔细阅读\"><a class=\"anchor\" href=\"#仔细阅读\">#</a> <mark>仔细阅读</mark></h1>\n<h2 id=\"解题步骤\"><a class=\"anchor\" href=\"#解题步骤\">#</a> <strong>解题步骤：</strong></h2>\n<pre class=\"mermaid\">graph TD\n\t\tA(读题) --> B(关键词定位)\n\t\tB --> C(定位明确)\n\t\tC --> D(本句后句解题)\n\t\tB --> E(定位宽泛)\n\t\tE --> F(出题原则解题)</pre>\n<h3 id=\"读题关键词定位\"><a class=\"anchor\" href=\"#读题关键词定位\">#</a> 读题 &amp;&amp; 关键词定位：</h3>\n<p>找出五道题的题干定位词</p>\n<ul>\n<li>显性关键词：大写、数字、年代、时间、连词符单词</li>\n<li>谓语结构（动宾短语）及其改写</li>\n<li>核心名词（主语）及其改写</li>\n</ul>\n<h3 id=\"定位明确\"><a class=\"anchor\" href=\"#定位明确\">#</a> 定位明确：</h3>\n<p>按顺序阅读的方法用关键词找到定位句，在这句话以及后一句话进行解题。<br />\n比对谓语，判断是否有同义替换</p>\n<h3 id=\"定位宽泛\"><a class=\"anchor\" href=\"#定位宽泛\">#</a> 定位宽泛：</h3>\n<p>找不到的话 按以下三个出题原则依次寻找，然后进行解题</p>\n<ul>\n<li>特殊标点： <code>：— ””</code></li>\n<li>转折（强对比）： <code>but / however / still / yet / instead / unfortunately / on the contrary / by contrast / in contrast to</code></li>\n<li>段落的首尾</li>\n</ul>\n<h1 id=\"翻译\"><a class=\"anchor\" href=\"#翻译\">#</a> 翻译</h1>\n<h2 id=\"解题步骤-2\"><a class=\"anchor\" href=\"#解题步骤-2\">#</a> 解题步骤</h2>\n<pre class=\"mermaid\">graph LR\nA(步骤)-->B(解决逗号)---C(分句.介词短语.连词.非谓语动词)\nA-->D(找出主干.添定加状)\nE(细节)-->F(九个细节)</pre>\n",
+            "content_html": "<h1 id=\"仔细阅读\"><a class=\"anchor\" href=\"#仔细阅读\">#</a> <mark>仔细阅读</mark></h1>\n<h2 id=\"解题步骤\"><a class=\"anchor\" href=\"#解题步骤\">#</a> <strong>解题步骤：</strong></h2>\n<pre class=\"mermaid\">graph TD\n\t\tA(读题) --> B(关键词定位)\n\t\tB --> C(定位明确)\n\t\tC --> D(本句后句解题)\n\t\tB --> E(定位宽泛)\n\t\tE --> F(出题原则解题)</pre>\n<h3 id=\"读题关键词定位\"><a class=\"anchor\" href=\"#读题关键词定位\">#</a> 读题 &amp;&amp; 关键词定位：</h3>\n<p>找出五道题的题干定位词</p>\n<ul>\n<li>显性关键词：大写、数字、年代、时间、连词符单词</li>\n<li>谓语结构（动宾短语）及其改写</li>\n<li>核心名词（主语）及其改写</li>\n</ul>\n<h3 id=\"定位明确\"><a class=\"anchor\" href=\"#定位明确\">#</a> 定位明确：</h3>\n<p>按顺序阅读的方法用关键词找到定位句，在这句话以及后一句话进行解题。<br />\n比对谓语，判断是否有同义替换</p>\n<h3 id=\"定位宽泛\"><a class=\"anchor\" href=\"#定位宽泛\">#</a> 定位宽泛：</h3>\n<p>找不到的话 按以下三个出题原则依次寻找，然后进行解题</p>\n<ul>\n<li>特殊标点： <code>：— ””</code></li>\n<li>转折（强对比）： <code>but / however / still / yet / instead / unfortunately / on the contrary / by contrast / in contrast to</code></li>\n<li>段落的首尾</li>\n</ul>\n<h1 id=\"翻译\"><a class=\"anchor\" href=\"#翻译\">#</a> 翻译</h1>\n<h2 id=\"解题步骤-2\"><a class=\"anchor\" href=\"#解题步骤-2\">#</a> 解题步骤</h2>\n<pre class=\"mermaid\">graph LR\nA(步骤)-->B(解决逗号)---C(方法:分句.介词短语.连词.非谓语动词)\nA-->D(找出主干)-->G(添定加状)\nE(细节)-->F(九个细节)</pre>\n",
             "tags": [
                 "外语",
                 "英语",
                 "学习",
-                "ect6",
-                "英语"
+                "英语",
+                "ect6"
             ]
         },
         {

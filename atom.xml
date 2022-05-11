@@ -109,12 +109,12 @@ A --&gt; C(OC)&lt;/pre&gt;
 &lt;pre class=&#34;mermaid&#34;&gt;graph LR
 A(步骤)--&gt;B(解决逗号)
 A--&gt;D(找出主干)--&gt;G(添定加状)&lt;/pre&gt;
-&lt;h3 id=&#34;解决逗号的方法分句介词短语连词非谓语动词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决逗号的方法分句介词短语连词非谓语动词&#34;&gt;#&lt;/a&gt; 解决逗号的方法：分句，介词短语，连词，非谓语动词&lt;/h3&gt;
+&lt;h3 id=&#34;解决逗号的方法分句介词短语连词非谓语动词doingdoneto-do&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决逗号的方法分句介词短语连词非谓语动词doingdoneto-do&#34;&gt;#&lt;/a&gt; 解决逗号的方法：分句，介词短语，连词，非谓语动词（doing,done,to do）&lt;/h3&gt;
 &lt;h3 id=&#34;找主干的方法先找动词在找主语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#找主干的方法先找动词在找主语&#34;&gt;#&lt;/a&gt; 找主干的方法：先找动词在找主语&lt;/h3&gt;
 &lt;h2 id=&#34;细节&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#细节&#34;&gt;#&lt;/a&gt; 细节&lt;/h2&gt;
 &lt;pre class=&#34;mermaid&#34;&gt;graph LR
 E(细节)--&gt;F(九个细节)--&gt;H(1-词义选择)
-F--&gt;I(2-暂无)
+F--&gt;I(2-词性转换)
 F--&gt;j(3-暂无)
 F--&gt;k(4-暂无)
 F--&gt;l(5-暂无)
@@ -123,7 +123,7 @@ F--&gt;o(7-暂无)
 F--&gt;p(8-暂无)
 F--&gt;q(9-暂无)&lt;/pre&gt;
 &lt;h3 id=&#34;细节第一剑&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#细节第一剑&#34;&gt;#&lt;/a&gt; 细节第一剑&lt;/h3&gt;
-&lt;p&gt;根据&lt;mark&gt;词性&lt;/mark&gt;，&lt;mark&gt;语境&lt;/mark&gt;，&lt;mark&gt;搭配&lt;/mark&gt;选择&lt;/p&gt;
+&lt;p&gt;词义选择：根据&lt;mark&gt;词性&lt;/mark&gt;，&lt;mark&gt;语境&lt;/mark&gt;，&lt;mark&gt;搭配&lt;/mark&gt;选择&lt;/p&gt;
 &lt;h3 id=&#34;细节第二剑&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#细节第二剑&#34;&gt;#&lt;/a&gt; 细节第二剑&lt;/h3&gt;
 &lt;h3 id=&#34;细节第三剑&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#细节第三剑&#34;&gt;#&lt;/a&gt; 细节第三剑&lt;/h3&gt;
 &lt;h3 id=&#34;细节第四剑&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#细节第四剑&#34;&gt;#&lt;/a&gt; 细节第四剑&lt;/h3&gt;
@@ -135,8 +135,8 @@ F--&gt;q(9-暂无)&lt;/pre&gt;
 </content>
         <category term="外语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/" />
         <category term="英语" scheme="https://a-zongzi.github.io/categories/%E5%A4%96%E8%AF%AD/%E8%8B%B1%E8%AF%AD/" />
-        <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
         <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
+        <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
         <category term="ect6" scheme="https://a-zongzi.github.io/tags/ect6/" />
         <updated>2022-05-02T08:32:00.000Z</updated>
     </entry>
@@ -152,8 +152,8 @@ F--&gt;q(9-暂无)&lt;/pre&gt;
 </content>
         <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computer-language/" />
         <category term="Python" scheme="https://a-zongzi.github.io/categories/computer-language/python/" />
-        <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
         <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+        <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
         <category term="笔记" scheme="https://a-zongzi.github.io/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="编程语言" scheme="https://a-zongzi.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
         <updated>2022-04-30T11:55:47.000Z</updated>

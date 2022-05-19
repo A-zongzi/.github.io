@@ -115,8 +115,17 @@ A --&gt; C(OC)&lt;/pre&gt;
 &lt;li&gt;转折（强对比）： &lt;code&gt;but / however / still / yet / instead / unfortunately / on the contrary / by contrast / in contrast to&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;段落的首尾&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h1 id=&#34;选词填空&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选词填空&#34;&gt;#&lt;/a&gt; &lt;mark&gt;选词填空&lt;/mark&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;解题步骤-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-2&#34;&gt;#&lt;/a&gt; 解题步骤：&lt;/h2&gt;
+&lt;h3 id=&#34;step1通读首句抓中心&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step1通读首句抓中心&#34;&gt;#&lt;/a&gt; Step1. 通读首句，抓中心&lt;/h3&gt;
+&lt;h3 id=&#34;step2详读选项词分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step2详读选项词分类&#34;&gt;#&lt;/a&gt; Step2. 详读选项，词分类&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;名词后缀&lt;/strong&gt; -dom -hood -an -ant -ance -ence -ism -ity -ment -ness -ship -tion -ire -ty -tude -sion&lt;br /&gt;
+&lt;strong&gt; 形容词后缀&lt;/strong&gt; -able -al -an -ant -ic -ive -en -ish -like -ful -ous -y -ist&lt;br /&gt;
+&lt;strong&gt; 动词后缀&lt;/strong&gt; -ate -en -fy -ize/ise&lt;br /&gt;
+&lt;strong&gt; 副词后缀&lt;/strong&gt; -ly -ward -wise&lt;/p&gt;
+&lt;h3 id=&#34;step3瞻前顾后灵活选&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step3瞻前顾后灵活选&#34;&gt;#&lt;/a&gt; Step3. 瞻前顾后，灵活选&lt;/h3&gt;
 &lt;h1 id=&#34;翻译&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; &lt;mark&gt;翻译&lt;/mark&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;解题步骤-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-2&#34;&gt;#&lt;/a&gt; 解题步骤&lt;/h2&gt;
+&lt;h2 id=&#34;解题步骤-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-3&#34;&gt;#&lt;/a&gt; 解题步骤&lt;/h2&gt;
 &lt;pre class=&#34;mermaid&#34;&gt;graph LR
 A(步骤)--&gt;B(解决逗号)
 A--&gt;D(找出主干)--&gt;G(添定加状)&lt;/pre&gt;
@@ -151,8 +160,8 @@ F--&gt;q(9-暂无)&lt;/pre&gt;
             <link>https://a-zongzi.github.io/2022/04/30/computer-language/python/python_01/</link>
             <category term="编程语言" scheme="https://a-zongzi.github.io/categories/computer-language/" />
             <category term="Python" scheme="https://a-zongzi.github.io/categories/computer-language/python/" />
-            <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
             <category term="Python" scheme="https://a-zongzi.github.io/tags/Python/" />
+            <category term="学习" scheme="https://a-zongzi.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
             <category term="笔记" scheme="https://a-zongzi.github.io/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="编程语言" scheme="https://a-zongzi.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <pubDate>Sat, 30 Apr 2022 19:55:47 +0800</pubDate>

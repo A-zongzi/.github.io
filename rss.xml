@@ -90,8 +90,28 @@ A --&gt; C(OC)&lt;/pre&gt;
             <category term="ect6" scheme="https://a-zongzi.github.io/tags/ect6/" />
             <category term="英语" scheme="https://a-zongzi.github.io/tags/%E8%8B%B1%E8%AF%AD/" />
             <pubDate>Mon, 02 May 2022 16:32:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;仔细阅读&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#仔细阅读&#34;&gt;#&lt;/a&gt; &lt;mark&gt;仔细阅读&lt;/mark&gt;&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;段落匹配&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#段落匹配&#34;&gt;#&lt;/a&gt; &lt;mark&gt;段落匹配&lt;/mark&gt;&lt;/h1&gt;
 &lt;h2 id=&#34;解题步骤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤&#34;&gt;#&lt;/a&gt; &lt;strong&gt;解题步骤：&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;step1看大标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step1看大标题&#34;&gt;#&lt;/a&gt; Step1. 看大标题&lt;/h3&gt;
+&lt;h3 id=&#34;step2选定位词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step2选定位词&#34;&gt;#&lt;/a&gt; Step2. 选定位词&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;数字、特殊文字（数词）&lt;/li&gt;
+&lt;li&gt;大写专有名词：人名、地名、书名、机构名 (专有名词)&lt;/li&gt;
+&lt;li&gt;特定概念：合成词、专业概念、独特说法、偏具体的名词（连字符词、引号词）&lt;/li&gt;
+&lt;li&gt;比较级、最高级&lt;/li&gt;
+&lt;li&gt;固定动词搭配（&lt;mark&gt;动宾&lt;/mark&gt;）☆☆☆&lt;br /&gt;
+&lt;u&gt;Notice&lt;/u&gt;：一般在答案中找定位词发现有一样的或者高频出现的词可以划掉（心里记住就行），高频词不利于比较出答案&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;step3读文解题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step3读文解题&#34;&gt;#&lt;/a&gt; Step3. 读文解题&lt;/h3&gt;
+&lt;p&gt;段落分为 &amp;quot;&lt;mark&gt; 三部分&lt;/mark&gt;阅读 &amp;quot;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;首先读段&lt;mark&gt;首一句、末一句&lt;/mark&gt;&lt;/li&gt;
+&lt;li&gt;再读段中&lt;mark&gt;转折&lt;/mark&gt;后句&lt;/li&gt;
+&lt;li&gt;最后其余信息以词扫读&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;step4查漏补缺&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step4查漏补缺&#34;&gt;#&lt;/a&gt; Step4. 查漏补缺&lt;/h3&gt;
+&lt;h1 id=&#34;仔细阅读&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#仔细阅读&#34;&gt;#&lt;/a&gt; &lt;mark&gt;仔细阅读&lt;/mark&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;解题步骤-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;解题步骤：&lt;/strong&gt;&lt;/h2&gt;
 &lt;pre class=&#34;mermaid&#34;&gt;graph TD
 		A(读题) --&gt; B(关键词定位)
 		B --&gt; C(定位明确)
@@ -116,7 +136,7 @@ A --&gt; C(OC)&lt;/pre&gt;
 &lt;li&gt;段落的首尾&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;选词填空&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选词填空&#34;&gt;#&lt;/a&gt; &lt;mark&gt;选词填空&lt;/mark&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;解题步骤-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-2&#34;&gt;#&lt;/a&gt; 解题步骤：&lt;/h2&gt;
+&lt;h2 id=&#34;解题步骤-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-3&#34;&gt;#&lt;/a&gt; 解题步骤：&lt;/h2&gt;
 &lt;h3 id=&#34;step1通读首句抓中心&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step1通读首句抓中心&#34;&gt;#&lt;/a&gt; Step1. 通读首句，抓中心&lt;/h3&gt;
 &lt;h3 id=&#34;step2详读选项词分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step2详读选项词分类&#34;&gt;#&lt;/a&gt; Step2. 详读选项，词分类&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;名词后缀&lt;/strong&gt; -dom -hood -an -ant -ance -ence -ism -ity -ment -ness -ship -tion -ire -ty -tude -sion&lt;br /&gt;
@@ -125,7 +145,7 @@ A --&gt; C(OC)&lt;/pre&gt;
 &lt;strong&gt; 副词后缀&lt;/strong&gt; -ly -ward -wise&lt;/p&gt;
 &lt;h3 id=&#34;step3瞻前顾后灵活选&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step3瞻前顾后灵活选&#34;&gt;#&lt;/a&gt; Step3. 瞻前顾后，灵活选&lt;/h3&gt;
 &lt;h1 id=&#34;翻译&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#翻译&#34;&gt;#&lt;/a&gt; &lt;mark&gt;翻译&lt;/mark&gt;&lt;/h1&gt;
-&lt;h2 id=&#34;解题步骤-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-3&#34;&gt;#&lt;/a&gt; 解题步骤&lt;/h2&gt;
+&lt;h2 id=&#34;解题步骤-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解题步骤-4&#34;&gt;#&lt;/a&gt; 解题步骤：&lt;/h2&gt;
 &lt;pre class=&#34;mermaid&#34;&gt;graph LR
 A(步骤)--&gt;B(解决逗号)
 A--&gt;D(找出主干)--&gt;G(添定加状)&lt;/pre&gt;
